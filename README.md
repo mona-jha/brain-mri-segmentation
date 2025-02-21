@@ -10,7 +10,7 @@ Please, first clone the repo.
 
 Then, download the dataset (~2 GB) from (https://www.kaggle.com/code/monakumari/3d-mri-brain-tumor-segmentation-u-net-acc-99)
 
-The code is written with Python 3.8, and uses a PyTorch implementation of UNet (https://pytorch.org/hub/mateuszbuda_brain-segmentation-pytorch_unet/).
+
 
 ## Requirements
 
